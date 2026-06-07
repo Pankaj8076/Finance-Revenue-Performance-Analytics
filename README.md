@@ -173,6 +173,19 @@ python analysis.py
 | Discount Impact | Revenue + Margin by discount band |
 
 ---
+## 📸 Project Visualizations
+
+### Monthly Revenue Trend
+![Monthly Revenue](outputs/01_monthly_revenue_trend.png)
+
+### Revenue by Region  
+![Revenue by Region](outputs/02_revenue_by_region.png)
+
+### Sales Rep Leaderboard
+![Sales Rep](outputs/04_sales_rep_leaderboard.png)
+
+### Quarterly vs Target
+![Quarterly](outputs/05_quarterly_vs_target.png)
 
 ## 🚀 Skills Demonstrated
 
